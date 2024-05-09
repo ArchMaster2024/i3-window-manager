@@ -1,0 +1,7 @@
+[window]
+opacity = 1.0
+
+[font]
+normal.family = "Jetbrains Mono"
+normal.style = "Bold"
+

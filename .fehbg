@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/archmaster/Images/background/wallhaven-9m8pgk_1600x900.png' 

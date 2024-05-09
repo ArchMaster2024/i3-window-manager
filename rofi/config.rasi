@@ -1,0 +1,8 @@
+configuration {
+	modi: "window,drun,ssh,combi";
+	font: "Monospace";
+	combi-modi: "window,drun,ssh";
+	icon-theme: "FontAwesome 12";
+	show-icons: true;
+	}
+@theme "Monokai"
